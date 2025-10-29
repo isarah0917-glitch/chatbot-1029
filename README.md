@@ -20,9 +20,9 @@ OPENAI_API_KEY=__FILL_ME__
 OPENAI_MODEL=gpt-4o-mini
 ```
 
-프론트엔드 API 베이스 URL (개발 기본값은 `http://localhost:3001`):
+프론트엔드 API 베이스 URL (개발 기본값은 `http://localhost:3000`):
 ```
-VITE_API_BASE_URL=http://localhost:3001
+VITE_API_BASE_URL=http://localhost:3000
 ```
 
 ### 실행 방법
